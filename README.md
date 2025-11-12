@@ -7,7 +7,7 @@ This project estimates the 1-day 95% Value-at-Risk (VaR) for a portfolio of four
 
 ## What is VaR?
 
-**Value-at-Risk (VaR)** is a risk measure that estimates the maximum expected loss of a portfolio over a set period (here, 1 day) at a certain confidence level (here, 95%). For example, a 1-day 95% VaR of $2,900 means there is only a 5% chance the portfolio will lose more than $2,900 in a single day.
+**Value-at-Risk (VaR)** is a risk measure that estimates the maximum expected loss of a portfolio over a set period (here, 1 day) at a certain confidence level (here, 95%).
 
 ## Project Workflow
 
